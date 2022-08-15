@@ -11,7 +11,7 @@ Assignments done as a part of the course Statistical Machine Learning (CSE-342/5
   - Discriminant Analysis (LDA)
   - LDA for multivariate Bernoulli distribution
   - PCA (Principal Component Analysis)
-  - MAP (M<aximum a Posteriori) Analysis
+  - MAP (Maximum a Posteriori) Analysis
   
 ## Assignment 3 focuses on:
   - LDA (Linear Discriminant Analysis)
