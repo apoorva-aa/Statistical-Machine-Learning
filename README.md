@@ -15,7 +15,7 @@ Assignments done as a part of the course Statistical Machine Learning (CSE-342/5
   
 ## Assignment 3 focuses on:
   - LDA (Linear Discriminant Analysis)
-  - PCA (Princpal Component Analysis)
+  - PCA (Principal Component Analysis)
   - FDA (Fischer's Discriminant Analysis)
   - Rosenblatt's perceptron (The first Neural Network model)
   
